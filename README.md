@@ -217,6 +217,8 @@ Se estiver tudo certo você pode selecionar o botão "Enviar por SMS"
 
 PARA MAIORES DÚVIDAS ESTOU À DISPOSIÇÃO
 
+Você pode saber mais sobre a documentação do WhatsappWeb.js aqui:
+https://github.com/pedroslopez/whatsapp-web.js
 
 
 
