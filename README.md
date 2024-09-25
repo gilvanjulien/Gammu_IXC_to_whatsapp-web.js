@@ -106,7 +106,7 @@ Ainda dentro da pasta GammuIXC, com privilégio de root e acessando por ssh util
 
 vi app.js
 
-Em sequiga cole o código que está no repositório do Github
+Em seguida cole o código que está no repositório do Github
 
 
 8ª Passo - Iniciar o programa em segundo plano.
@@ -167,7 +167,7 @@ Utilizar shortcode = Deixar desmarcado
 Quant. máxima de caracteres: 99999
 
 
-Clice em salvar em salvar.
+Clique em salvar em salvar.
 
 10º Passo - Enviar mensagem de Teste
 
@@ -176,11 +176,11 @@ Preencha os campos:
 Número de celular do destinatário = Seu próprio número de celular
 Mensagem de teste = Teste de envio
 
-E em seguida prescione o botão "Enviar teste"
+E em seguida, pressione o botão "Enviar teste"
 
 11º Configurar "SMS para envios de boletos" no IXC Soft
 
-Você deve configurar o parâmentro de envio de boletos no IXC Soft.
+Você deve configurar o parâmetro de envio de boletos no IXC Soft.
 
 Você pode seguir essa documentação aqui:
 https://wiki.ixcsoft.com.br/pt-br/Hotsite/Central/enviar_fatura_por_sms
@@ -192,7 +192,7 @@ Abra configuração no campo "SMS para envio de boletos"
 Selecione no campo "Gateway SMS" a configuração do servidor.
 
 Um exemplo para cobrança pode ser:
-"Oi, cliente: Não identificamos o pagamento da sua fatura, numero: #areceber_numero# com vencimento no dia #areceber_data_vencimento#. Se já pagou, desconsidere. Para mais informações, entre em contato por Whatsapp ou ligação para o numero de contato. Obrigado!"
+"Oi, cliente: Não identificamos o pagamento da sua fatura, número: #areceber_numero# com vencimento no dia #areceber_data_vencimento#. Se já pagou, desconsidere. Para mais informações, entre em contato por Whatsapp ou ligação para o número de contato. Obrigado!"
 
 Clique em salvar.
 
@@ -214,7 +214,7 @@ Você pode ver a lista de clientes que será cobrando nessa mesma tela no botão
 Se estiver tudo certo você pode selecionar o botão "Enviar por SMS"
 
 
-PARA MAIORES DÚVIDAS ESTOU A DISPOSIÇÃO
+PARA MAIORES DÚVIDAS ESTOU À DISPOSIÇÃO
 
 
 
