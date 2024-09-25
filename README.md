@@ -7,7 +7,8 @@ Provavelmente outros provedores de internet que estiverem utilizando o serviço 
 
 Como o programa funciona:
 
-Com acesso SSH ao servidor escanei o QR Code no servidor Linux, com o código rodando você pode utilizar o botão "Enviar SMS" para enviar as mensagens.
+Com acesso SSH ao servidor escanei o QR Code no servidor Ubuntu Server
+Já no IXC Soft utilize o botão "Enviar SMS" para enviar as mensagens para os números.
 
 
 Pré-requisitos
