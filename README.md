@@ -11,11 +11,12 @@ Esse script não substitui números oficiais da Meta e sim tem o objetivo de com
 
 Como o programa funciona:
 
-Com acesso SSH ao servidor escanei o QR Code com celular instalado o Whatsapp Business no servidor Ubuntu Server
-Já no IXC Soft em Relatórios -> Relatórios financeiros -> Relatórios de Saída -> Emissão de boletos
-Seleciona a carteira de cobrança desejada, o período desejado, utilize o botão "Enviar SMS".
-O clientes começam receber as mensagens de cobrança pelo Whatsapp Business como se fosse uma pessoa entrando em contato.
-O envio está programando para realizar entre 15 e 30 segundos para evitar que o número de Whatsapp seja banido.
+- Com acesso SSH ao servidor escanei o QR Code com celular instalado o Whatsapp Business no servidor Ubuntu Server
+- Já no IXC Soft em Relatórios -> Relatórios financeiros -> Relatórios de Saída -> Emissão de boletos
+- Seleciona a carteira de cobrança desejada, o período desejado, utilize o botão "Enviar SMS".
+- O clientes começam receber as mensagens de cobrança pelo Whatsapp Business como se fosse uma pessoa entrando em contato.
+- O envio está programando para realizar entre 15 e 30 segundos para evitar que o número de Whatsapp seja banido.
+
 OBS.: A sugestão é deixar algum colaborador a companhando a cobrança e respondendo os clientes que responderem.
 
 
