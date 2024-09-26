@@ -7,8 +7,11 @@ Provavelmente outros provedores de internet que estiverem utilizando o serviço 
 
 Como o programa funciona:
 
-Com acesso SSH ao servidor escanei o QR Code no servidor Ubuntu Server
-Já no IXC Soft utilize o botão "Enviar SMS" para enviar as mensagens para os números.
+Com acesso SSH ao servidor escanei o QR Code com celular instalado o Whatsapp Business no servidor Ubuntu Server
+Já no IXC Soft em Relatórios -> Relatórios financeiros -> Relatórios de Saída -> Emissão de boletos
+Seleciona a carteira de cobrança desejada, o período desejado, utilize o botão "Enviar SMS".
+O clientes começam receber as mensagens de cobrança pelo Whatsapp Business como se fosse uma pessoa entrando em contato.
+OBS.: A sugestão é deixar algum colaborador a companhando a cobrança e respondendo os clientes que responderem.
 
 
 Pré-requisitos
