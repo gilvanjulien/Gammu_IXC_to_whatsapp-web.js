@@ -22,10 +22,11 @@ OBS.: A sugestão é deixar algum colaborador a companhando a cobrança e respon
 
 Pré-requisitos
 
-Sistema operacional: Ubuntu Server 24.04.1 LTS
-Computador/Servidor: Com processador de 64 bits, 4GB de RAM e pelo menos 40GB de espaço em disco livre. Processador dual-core de, no mínimo, 2 GHz (Recomendável aplicar 4 cores caso seja virtualizado).
-Conexão com a internet:  Uma conexão com a internet ativa e uma faixa de IP que o servidor do IXC Soft consiga enxergar o servidor, podendo ser um IP Privado ou Público. OBS.: Caso utilize IP Público é necessário aplicar algumas configurações de segurança no servidor Linux.
-Celular com Whatsapp Bussiness instalado e um número de Whatsapp já configurado
+- Sistema operacional: Ubuntu Server 24.04.1 LTS
+- Computador/Servidor: Com processador de 64 bits, 4GB de RAM e pelo menos 40GB de espaço em disco livre. Processador dual-core de, no mínimo, 2 GHz (Recomendável aplicar 4 cores caso seja virtualizado).
+- Conexão com a internet:  Uma conexão com a internet ativa e uma faixa de IP que o servidor do IXC Soft consiga enxergar o servidor, podendo ser um IP Privado ou Público. OBS.: Caso utilize IP Público é necessário aplicar algumas configurações de segurança no servidor Linux.
+- Celular com Whatsapp Bussiness instalado e um número de Whatsapp já configurado
+- Ter aquecido o número de Whatsapp por pelo menos 1 semana
 
 
 1º Passo - Instalar o Ubuntu Server 24.04LTS:
