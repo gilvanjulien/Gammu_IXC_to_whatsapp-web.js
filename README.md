@@ -19,6 +19,50 @@ Como o programa funciona:
 
 OBS.: A sugestão é deixar algum colaborador a companhando a cobrança e respondendo os clientes que responderem.
 
+Dica para aquecimento do número:
+O aquecimento da conta é uma estratégia utilizada para mostrar ao WhatsApp que você o utiliza de maneira natural para mensagens cotidianas.
+
+PRÉ-AQUECIMENTO:
+-Configurar e personalizar a conta do WhatsApp Business;
+-Entrar em grupos movimentados do WhatsApp;
+Ex: Grupos do seu provedor e o grupo de suporte da Zapisp com seu provedor.
+-Poste status no WhatsApp;
+-Troque mensagens com no mínimo 10 colaboradores ou pessoas conhecidas estabelecendo um diálogo breve;
+-Conecte a conta no WhatsApp Web;
+
+Segmentação de envio:
+A segmentação é uma estratégia encontrada para ajudar no aquecimento do número, de forma que você consiga apresentar o novo número aos poucos, reduzindo o risco de banimento.
+
+Dica: Enviar mensagens segmentadas em turnos.
+
+Ex: No 1º dia enviar 20 mensagens pela manhã, 20 no início da tarde e 10 no final da tarde
+
+- 1° dia:
+Enviar mensagens para no máximo 50 clientes com uma campanha que tenha no máximo 2 mensagens.
+
+- 2° dia:
+Enviar mensagens para no máximo 70 clientes com uma campanha que tenha no máximo 2 mensagens.
+
+- 3° dia:
+Enviar mensagens para no máximo 100 clientes com uma campanha que tenha no máximo 2 mensagens.
+
+- 4° dia:
+Enviar mensagens para no máximo 130 clientes com uma campanha que tenha no máximo 2 mensagens.
+
+- 5° dia:
+Enviar mensagens para no máximo 180 clientes com uma campanha que tenha no máximo 2 mensagens.
+
+- 6° dia:
+Enviar mensagens para no máximo 250 clientes com uma campanha que tenha no máximo 2 mensagens.
+
+- 7° dia
+Enviar mensagens para no máximo 400 clientes com uma campanha que tenha no máximo 2 mensagens.
+
+- Semana seguinte (8° dia - 14° dia):
+Faça o envio de campanhas para até no máximo 500 clientes por dia.
+
+OUTRAS DICAS:
+Caso não seja possível enviar mensagem de forma manual para muitos clientes é possível durante 1 semana deixar o número com Whatsapp Web ligado e siga as dicas de aquecimento trocando mensagens com os próprios colaboradores da empresa por um período mínimo de 7 dias.
 
 
 Pré-requisitos
