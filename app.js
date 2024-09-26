@@ -10,9 +10,9 @@ const port = 80;
 // Fila para mensagens
 let messageQueue = [];
 
-// Intervalo entre envios (15 a 20 segundos)
+// Intervalo entre envios (15 a 30 segundos)
 const MIN_DELAY = 15000;
-const MAX_DELAY = 20000;
+const MAX_DELAY = 30000;
 
 // Função para gerar intervalo aleatório de envio do WhatsApp
 const getRandomDelay = () => Math.floor(Math.random() * (MAX_DELAY - MIN_DELAY + 1)) + MIN_DELAY;
