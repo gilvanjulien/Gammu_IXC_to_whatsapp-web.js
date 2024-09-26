@@ -1,9 +1,13 @@
 # Gammu_IXC_to_whatsapp-web.js
 Esse código busca ajudar empresas que utilizam o software IXC Soft a enviar boletos ou cobranças por Whatsapp não oficial, visando ajudar seus clientes a receberem aviso sobre suas faturas.
 
-Eu estava sofrendo com uma empresa que prestava serviço de forma paga para a empresa na qual trabalho atualmente. Mesmo abrindo várias solicitações para solucionar o problema com a fila de envio de mensagem, eu continuei tendo esses problemas. Então, decidi procurar uma solução alternativa para o problema e consegui chegar nesse código.
+Existem algumas serviços pagos que realizam este mesmo serviço, mas nossa empresa começou a sofrer com o suporte técnico um das empresas que prestava esse serviço de forma paga. 
 
-Provavelmente outros provedores de internet que estiverem utilizando o serviço dessa empresa devem estar passando pelo mesmo problema, por isso decidi compartilhar a solução aqui para tentar ajudar outras empresas a não passarem pelo mesmo problema.
+Esse script busca ser uma alternativa para solucionar o problema de envio de mensagens do Gammu para o Whatsapp Bussines de forma não oficial da Meta.
+
+Provavelmente outros provedores de internet podem estar passando pelo mesmo problema, por isso decidi compartilhar a solução aqui para tentar ajudar outras empresas a não passarem pelo mesmo problema.
+
+Esse script não substitui números oficiais da Meta e sim tem o objetivo de complementar os atendimentos de clientes.
 
 Como o programa funciona:
 
@@ -11,7 +15,9 @@ Com acesso SSH ao servidor escanei o QR Code com celular instalado o Whatsapp Bu
 Já no IXC Soft em Relatórios -> Relatórios financeiros -> Relatórios de Saída -> Emissão de boletos
 Seleciona a carteira de cobrança desejada, o período desejado, utilize o botão "Enviar SMS".
 O clientes começam receber as mensagens de cobrança pelo Whatsapp Business como se fosse uma pessoa entrando em contato.
+O envio está programando para realizar entre 15 e 30 segundos para evitar que o número de Whatsapp seja banido.
 OBS.: A sugestão é deixar algum colaborador a companhando a cobrança e respondendo os clientes que responderem.
+
 
 
 Pré-requisitos
